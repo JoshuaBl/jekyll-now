@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+Hi I'm Joshua Blewitt - a recent Computer Science graduate from Milton Keynes.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+The way to get in touch with me is to send me a message on LinkedIn. (My LinkedIn profile can be found at the bottom of the page)
