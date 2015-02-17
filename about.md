@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
 ### More Information
 
 Hi I'm Joshua Blewitt - a recent Computer Science graduate from Milton Keynes.
+
+This blog will explore the world of Technology and my interests (I hope you like Hearthstone)
 
 ### Contact me
 
